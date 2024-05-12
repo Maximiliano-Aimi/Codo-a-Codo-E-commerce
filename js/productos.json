@@ -2,7 +2,7 @@
     {
         "id": "trajes-01",
         "titulo": "Traje 01",
-        "imagen": "img/trajes/01.jpg",
+        "imagen": "./img/trajes/01.jpg",
         "categoria": {
             "nombre": "Trajes",
             "id": "trajes"
@@ -12,7 +12,7 @@
     {
         "id": "trajes-02",
         "titulo": "Traje 02",
-        "imagen": "img/trajes/02.jpg",
+        "imagen": "./img/trajes/02.jpg",
         "categoria": {
             "nombre": "Trajes",
             "id": "trajes"
@@ -22,7 +22,7 @@
     {
         "id": "trajes-03",
         "titulo": "Traje 03",
-        "imagen": "img/trajes/03.jpg",
+        "imagen": "./img/trajes/03.jpg",
         "categoria": {
             "nombre": "Trajes",
             "id": "trajes"
