@@ -4,7 +4,7 @@
         "titulo": "Traje 01",
         "imagen": "./img/trajes/01.jpg",
         "categoria": {
-            "nombre": "Trajes",
+            "nombre": "trajes",
             "id": "trajes"
         },
         "precio": 65000
@@ -14,7 +14,7 @@
         "titulo": "Traje 02",
         "imagen": "./img/trajes/02.jpg",
         "categoria": {
-            "nombre": "Trajes",
+            "nombre": "trajes",
             "id": "trajes"
         },
         "precio": 68000
